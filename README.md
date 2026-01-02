@@ -23,5 +23,5 @@ The goal is not coverage, but coherence.
 - **net/**  
   Cross-disciplinary links (e.g. math and AI).
 
-- **meta/**  
+- **pool/**  
   Learning process, logs, and open questions.
