@@ -20,7 +20,7 @@ The goal is not coverage, but coherence.
 - **concepts/**  
   Atomic concept notes focusing on single ideas.
 
-- **connections/**  
+- **net/**  
   Cross-disciplinary links (e.g. math and AI).
 
 - **meta/**  
